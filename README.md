@@ -29,47 +29,26 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Pinned Projects
 
-### 📈 Stock Market Data Analysis
+### 📈 [Stock Market Data Analysis](https://github.com/Asmit1434/stock-market-analysis)
 > A 3-phase financial data pipeline that fetches live stock data from Yahoo Finance, performs technical analysis with custom indicators (SMA, RSI, Volatility), creates interactive visualizations, and predicts future prices using Facebook Prophet time-series forecasting.
 
 **Tech Stack:** `Python` `Pandas` `Plotly` `Facebook Prophet` `Matplotlib` `Seaborn` `yfinance`
 
-**Key Features:**
-- Live data fetching from Yahoo Finance for 10 US stocks across 5 sectors
-- Technical indicators: SMA-20/50, RSI-14, 30-day rolling volatility
-- Interactive candlestick charts, correlation heatmaps, sector performance analysis
-- 30-day price forecasting with Prophet
-- Automated 14-chapter PDF report generation
-
 ---
 
-### 🎓 Student Marks Management System
+### 🎓 [Student Marks Management System](https://github.com/Asmit1434/student-marks-management)
 > A full-stack MVC web application for managing student academic records with 3 role-based portals (Admin, Teacher, Student), real-time AJAX operations, Chart.js dashboards, and BCrypt security.
 
 **Tech Stack:** `Java (JDK 17)` `MySQL 8.x` `Jakarta Servlet` `JSP` `Chart.js` `Maven` `HikariCP`
 
-**Key Features:**
-- 32 Java files, 16 JSP views, 7 normalized MySQL tables
-- Role-based access control with BCrypt authentication (12 log rounds)
-- 18 servlets handling CRUD operations with AJAX real-time search
-- HikariCP connection pooling achieving <2s page loads
-- Dark/Light theme toggle, CSV export, bidirectional feedback system
-
 ---
 
-### 🏥 Healthcare Analytics Dashboard
+### 🏥 [Healthcare Analytics Dashboard](https://github.com/Asmit1434/healthcare-dashboard)
 > An interactive Streamlit dashboard visualizing hospital operations data with 1,000 patient records across 10 diseases, 6 age groups, and 7 departments with 8 visualization sections.
 
 **Tech Stack:** `Python` `Streamlit` `Plotly` `Pandas` `NumPy` `Seaborn`
-
-**Key Features:**
-- 8 visualization sections: disease prevalence, age-group analysis, risk factors, utilization trends
-- Correlation heatmap analyzing 8 encoded variables
-- Department utilization with cost vs. length-of-stay bubble charts
-- Real-time KPI updates with sidebar filters
-- @st.cache_data for optimized performance
 
 ---
 
