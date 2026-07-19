@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a371f7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg)" rx="8"/>
+  
+  <!-- Subtle grid lines -->
+  <g stroke="#21262d" stroke-width="0.5" opacity="0.5">
+    <line x1="0" y1="50" x2="800" y2="50"/>
+    <line x1="0" y1="100" x2="800" y2="100"/>
+    <line x1="0" y1="150" x2="800" y2="150"/>
+    <line x1="100" y1="0" x2="100" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="300" y1="0" x2="300" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="500" y1="0" x2="500" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+    <line x1="700" y1="0" x2="700" y2="200"/>
+  </g>
+  
+  <!-- Data visualization - rising line chart -->
+  <polyline 
+    points="50,160 120,140 190,145 260,120 330,100 400,85 470,90 540,60 610,45 680,50 750,30"
+    fill="none" 
+    stroke="url(#accent)" 
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    opacity="0.8"
+  />
+  
+  <!-- Data points -->
+  <g fill="#58a6ff">
+    <circle cx="50" cy="160" r="3"/>
+    <circle cx="120" cy="140" r="3"/>
+    <circle cx="190" cy="145" r="3"/>
+    <circle cx="260" cy="120" r="3"/>
+    <circle cx="330" cy="100" r="3"/>
+    <circle cx="400" cy="85" r="3"/>
+    <circle cx="470" cy="90" r="3"/>
+    <circle cx="540" cy="60" r="3"/>
+    <circle cx="610" cy="45" r="3"/>
+    <circle cx="680" cy="50" r="3"/>
+    <circle cx="750" cy="30" r="3"/>
+  </g>
+  
+  <!-- Bar chart accent -->
+  <g fill="url(#accent)" opacity="0.15">
+    <rect x="100" y="170" width="20" height="30" rx="2"/>
+    <rect x="140" y="150" width="20" height="50" rx="2"/>
+    <rect x="180" y="160" width="20" height="40" rx="2"/>
+    <rect x="220" y="130" width="20" height="70" rx="2"/>
+    <rect x="260" y="140" width="20" height="60" rx="2"/>
+  </g>
+  
+  <!-- Name -->
+  <text x="400" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#f0f6fc" text-anchor="middle" letter-spacing="-1">
+    ASMIT SINGH
+  </text>
+  
+  <!-- Tagline -->
+  <text x="400" y="125" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" letter-spacing="3">
+    PYTHON · JAVA · SQL · BUILDING THINGS
+  </text>
+  
+  <!-- Decorative accent line -->
+  <rect x="300" y="140" width="200" height="2" fill="url(#accent)" rx="1"/>
+</svg>

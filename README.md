@@ -1,132 +1,119 @@
-# Hey, I'm Asmit Singh 👋
+<div align="center">
 
-### B.Tech CSE Student | Aspiring Data Analyst | Full-Stack Developer
+<!-- Signature Element: Custom Data-Themed SVG Banner -->
+<img src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/main/banner.svg" width="100%" alt="Asmit Singh - Data Analyst" />
 
----
-
-## 🎓 About Me
-
-- 🎓 **4th Year B.Tech Computer Science Engineering** student at **Galgotias University**, Greater Noida
-- 💡 Passionate about **Data Analytics**, **Business Intelligence** & **Machine Learning**
-- 🔧 Skilled in **Python**, **Java**, **SQL**, and data visualization tools
-- 📊 Experience in building **full-stack web applications** and **data analysis pipelines**
-- 📍 **Noida, Uttar Pradesh, India**
-- 📧 **asmits1434@gmail.com**
-- 🔗 **linkedin.com/in/asmit-singh-dev**
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## The Short Version
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I turn messy datasets into clean insights and raw numbers into stories that make sense.
 
-### Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0E76A8?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Web Technologies & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Servlet-000000?style=for-the-badge&logo=apache&logoColor=white)
-
-### Tools & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+4th year CSE student at Galgotias University. I build things with **Python**, **Java**, and **SQL** — whether that's full-stack apps, data pipelines, or dashboards. I care less about collecting tech badges and more about shipping work that actually works.
 
 ---
 
-## 📂 Pinned Projects
+<div align="center">
 
-### 📈 [Stock Market Data Analysis](https://github.com/Asmit1434/stock-market-analysis)
-> A 3-phase financial data pipeline that fetches live stock data from Yahoo Finance, performs technical analysis with custom indicators (SMA, RSI, Volatility), creates interactive visualizations, and predicts future prices using Facebook Prophet time-series forecasting.
+### Currently
 
-**Tech Stack:** `Python` `Pandas` `Plotly` `Facebook Prophet` `Matplotlib` `Seaborn` `yfinance`
+```
+📊  Building full-stack apps & data pipelines
+🔭  Learning ML fundamentals & cloud deployment
+💼  Open to any internship — I want real-world experience, not just a title
+```
 
----
-
-### 🎓 [Student Marks Management System](https://github.com/Asmit1434/student-marks-management)
-> A full-stack MVC web application for managing student academic records with 3 role-based portals (Admin, Teacher, Student), real-time AJAX operations, Chart.js dashboards, and BCrypt security.
-
-**Tech Stack:** `Java (JDK 17)` `MySQL 8.x` `Jakarta Servlet` `JSP` `Chart.js` `Maven` `HikariCP`
+</div>
 
 ---
 
-### 🏥 [Healthcare Analytics Dashboard](https://github.com/Asmit1434/healthcare-dashboard)
-> An interactive Streamlit dashboard visualizing hospital operations data with 1,000 patient records across 10 diseases, 6 age groups, and 7 departments with 8 visualization sections.
+## Selected Work
 
-**Tech Stack:** `Python` `Streamlit` `Plotly` `Pandas` `NumPy` `Seaborn`
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📈 Stock Market Analysis
+**[View Project →](https://github.com/Asmit1434/stock-market-analysis)**
 
-## 📊 GitHub Stats
+3-phase financial data pipeline that pulls live data from Yahoo Finance for 10 stocks across 5 sectors. Built custom technical indicators (SMA, RSI, Volatility) and trained Facebook Prophet to predict 30-day price movements. Generated an automated 14-chapter PDF report.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit1434&show_icons=true&theme=radical&hide_border=true)
+`Python` `Plotly` `Pandas` `Prophet`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit1434&layout=compact&theme=radical&hide_border=true)
+</td>
+<td width="50%" valign="top">
 
----
+### 🎓 Student Marks Management
+**[View Project →](https://github.com/Asmit1434/student-marks-management)**
 
-## 🎯 Education
+Full-stack MVC application with 3 role-based portals, real-time AJAX search, and Chart.js dashboards. Handles 32 Java source files, 16 JSP views, and 7 normalized MySQL tables. Sub-2-second page loads with HikariCP connection pooling.
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| **B.Tech CSE** | Galgotias University, Greater Noida | 2023 - 2027 (Expected) | Pursuing |
-| **Class 12 (Diploma)** | - | - | 62% |
-| **Class 10** | - | - | 60% |
+`Java` `MySQL` `Jakarta Servlet` `Chart.js`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 💼 Core Strengths
+### 🏥 Healthcare Dashboard
+**[View Project →](https://github.com/Asmit1434/healthcare-dashboard)**
 
-- ✅ Analytical Thinking & Problem Solving
-- ✅ Attention to Detail & Data Accuracy
-- ✅ Quick Learner & Adaptable to New Technologies
-- ✅ Teamwork & Collaboration
-- ✅ Time Management & Deadline Adherence
-- ✅ Effective Communication Skills
+Interactive Streamlit app visualizing 1,000 synthetic patient records across 10 diseases and 7 hospital departments. Includes correlation heatmaps, cost-vs-stay bubble charts, and real-time KPI updates with sidebar filters.
 
----
+`Streamlit` `Plotly` `Seaborn` `Pandas`
 
-## 🌐 Languages
+</td>
+<td width="50%" valign="top">
 
-- **English** - Professional
-- **Hindi** - Native
+### 🔧 More on GitHub
+**[github.com/Asmit1434 →](https://github.com/Asmit1434)**
 
----
+Always building something. Check my pinned repos for the latest work — data pipelines, dashboards, and full-stack experiments.
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmit-singh-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmits1434@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asmit1434)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Availability
+<div align="center">
 
-- 🟢 **Open to Internships** - Data Analyst roles
-- 📍 **Location:** Greater Noida / Remote
-- ⏰ **Available:** Immediate
+### Tech I Actually Use
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit1434&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="35%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Asmit1434&show_icons=true&theme=transparent&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+
+</div>
 
 ---
 
-*Feel free to reach out for collaborations, opportunities, or just a friendly hello!* 👋
+<div align="center">
+
+### Core Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Talk
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmit-singh-dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asmits1434@gmail.com)
+
+*CSE student. Learn fast, build things, grow. Open to any internship that teaches me something real.*
+
+</div>
