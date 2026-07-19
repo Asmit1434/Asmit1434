@@ -83,28 +83,7 @@ Always building something. Check my pinned repos for the latest work — data pi
 <div align="center">
 
 <a href="https://github.com/Asmit1434">
-  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.base.svg" alt="GitHub Metrics">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.languages.svg" alt="Languages">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.isocalendar.svg" alt="Isometric Calendar">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.habits.svg" alt="Habits">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.achievements.svg" alt="Achievements">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.lines.svg" alt="Lines of Code">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.topics.svg" alt="Topics">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.repositories.svg" alt="Repositories">
+  <img src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/github-metrics.svg" alt="GitHub Metrics">
 </a>
 
 </div>

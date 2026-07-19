@@ -28,16 +28,9 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_languages: true
           plugin_languages_limit: 12
-          plugin_languages_details: true
           plugin_isocalendar: true
           plugin_isocalendar_duration: half-year
-          plugin_habits: true
-          plugin_habits_charts: true
-          plugin_habits_facts: true
-          plugin_achievements: true
           plugin_lines: true
-          plugin_topics: true
-          plugin_topics_limit: 12
           plugin_repositories: true
           plugin_repositories_pinned: 6
 
