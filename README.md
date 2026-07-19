@@ -17,6 +17,17 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Asmit1434&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
+![GitHub Streak](https://streak-stats.demolab.com?user=Asmit1434&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmit1434&show_icons=true&theme=radical&hide_border=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit1434&layout=compact&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asmit1434&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
