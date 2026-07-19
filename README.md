@@ -25,7 +25,7 @@
 <div align="center">
 
 <a href="https://github.com/Asmit1434">
-  <img src="https://metrics.lecoq.io/embed/Asmit1434?template=classic&config_timezone=Asia/Kolkata&config_animations=true&config_display=repository&base=half,rim,header&plugins=habits&plugins Habits&habits=true&habits.charts=true&habits.facts=true&languages=true&languages.limit=8&languages.details=true&lines=true&calendar=true&repositories=true&repositories.pinned=6&stars=true&stargazers=true" alt="GitHub Metrics" width="100%" />
+  <img src="https://metrics.lecoq.io/embed/Asmit1434?template=classic&config_timezone=Asia/Kolkata&config_animations=true&config_display=repository&base=half,rim,header&plugins=habits,languages,lines,calendar,repositories&habits=true&habits.charts=true&habits.facts=true&languages=true&languages.limit=8&languages.details=true&lines=true&calendar=true&repositories=true&repositories.pinned=6" alt="GitHub Metrics" width="100%" />
 </a>
 
 </div>
