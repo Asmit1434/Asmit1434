@@ -1,29 +1,27 @@
 <div align="center">
 
-<!-- Signature Element: Custom Data-Themed SVG Banner -->
-<img src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/main/banner.svg" width="100%" alt="Asmit Singh - Data Analyst" />
+<img src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/main/banner.svg" width="100%" />
 
 </div>
 
 ---
 
-## The Short Version
+I build things with **Python**, **Java**, and **SQL** — full-stack apps, data pipelines, dashboards. I care less about collecting tech badges and more about shipping work that actually works.
 
-I turn messy datasets into clean insights and raw numbers into stories that make sense.
-
-4th year CSE student at Galgotias University. I build things with **Python**, **Java**, and **SQL** — whether that's full-stack apps, data pipelines, or dashboards. I care less about collecting tech badges and more about shipping work that actually works.
+**4th year CSE student at Galgotias University.** Open to any internship — I want real-world experience, not just a title.
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
-### Currently
-
-```
-📊  Building full-stack apps & data pipelines
-🔭  Learning ML fundamentals & cloud deployment
-💼  Open to any internship — I want real-world experience, not just a title
-```
+<a href="https://github.com/Asmit1434">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit1434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit1434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages">
+</a>
 
 </div>
 
@@ -35,64 +33,52 @@ I turn messy datasets into clean insights and raw numbers into stories that make
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Stock Market Analysis
-**[View Project →](https://github.com/Asmit1434/stock-market-analysis)**
+### Stock Market Analysis
 
-3-phase financial data pipeline that pulls live data from Yahoo Finance for 10 stocks across 5 sectors. Built custom technical indicators (SMA, RSI, Volatility) and trained Facebook Prophet to predict 30-day price movements. Generated an automated 14-chapter PDF report.
+3-phase financial data pipeline — pulls live data from Yahoo Finance for 10 stocks across 5 sectors. Built custom technical indicators (SMA, RSI, Volatility) and trained Facebook Prophet for 30-day price prediction. Auto-generates a 14-chapter PDF report.
 
 `Python` `Plotly` `Pandas` `Prophet`
+
+**[View Project →](https://github.com/Asmit1434/stock-market-analysis)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Student Marks Management
-**[View Project →](https://github.com/Asmit1434/student-marks-management)**
+### Student Marks Management
 
-Full-stack MVC application with 3 role-based portals, real-time AJAX search, and Chart.js dashboards. Handles 32 Java source files, 16 JSP views, and 7 normalized MySQL tables. Sub-2-second page loads with HikariCP connection pooling.
+Full-stack MVC application with 3 role-based portals, real-time AJAX search, and Chart.js dashboards. 32 Java source files, 16 JSP views, 7 normalized MySQL tables. Sub-2-second page loads with HikariCP.
 
 `Java` `MySQL` `Jakarta Servlet` `Chart.js`
+
+**[View Project →](https://github.com/Asmit1434/student-marks-management)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Healthcare Dashboard
-**[View Project →](https://github.com/Asmit1434/healthcare-dashboard)**
+### Healthcare Dashboard
 
-Interactive Streamlit app visualizing 1,000 synthetic patient records across 10 diseases and 7 hospital departments. Includes correlation heatmaps, cost-vs-stay bubble charts, and real-time KPI updates with sidebar filters.
+Interactive Streamlit app — 1,000 synthetic patient records, 10 diseases, 7 departments. Correlation heatmaps, cost-vs-stay bubble charts, real-time KPI updates with sidebar filters.
 
 `Streamlit` `Plotly` `Seaborn` `Pandas`
+
+**[View Project →](https://github.com/Asmit1434/healthcare-dashboard)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 More on GitHub
-**[github.com/Asmit1434 →](https://github.com/Asmit1434)**
+### Portfolio Website
 
-Always building something. Check my pinned repos for the latest work — data pipelines, dashboards, and full-stack experiments.
+Personal portfolio with animated particles, typing effects, lightbox modals, and project cards. Responsive design with dark theme and smooth scroll navigation.
+
+`HTML` `CSS` `JavaScript`
+
+**[View Project →](https://github.com/Asmit1434/Asmit1434.github.io)**
 
 </td>
 </tr>
 </table>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/Asmit1434">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit1434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit1434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages">
-</a>
-<a href="https://github.com/Asmit1434">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit1434&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="Streak Stats">
-</a>
-
-</div>
 
 ---
 
@@ -103,11 +89,15 @@ Always building something. Check my pinned repos for the latest work — data pi
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -115,10 +105,11 @@ Always building something. Check my pinned repos for the latest work — data pi
 
 <div align="center">
 
-### Let's Talk
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmit-singh-dev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asmits1434@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-58a6ff?style=flat-square&logo=github&logoColor=white)](https://asmit1434.github.io)
 
 *CSE student. Learn fast, build things, grow. Open to any internship that teaches me something real.*
 
