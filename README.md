@@ -83,7 +83,13 @@ Always building something. Check my pinned repos for the latest work — data pi
 <div align="center">
 
 <a href="https://github.com/Asmit1434">
-  <img src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/github-metrics.svg" alt="GitHub Metrics">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit1434&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit1434&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit1434&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="Streak Stats">
 </a>
 
 </div>
