@@ -21,17 +21,7 @@ jobs:
           user: Asmit1434
           template: classic
           base: half,rim,header
-          base_timezone: Asia/Kolkata
-          base_lines: 6
-          base_author: true
-          commits_author: true
-          commits_count: 100
-          commits_limit: 100
-          commits_sort: date
-          commits_date_range: year
-          activity: true
-          activity_limit: 50
-          activity_days: 7
+          config_timezone: Asia/Kolkata
 
       - name: Generate metrics (languages)
         uses: lowlighter/metrics@v3.34
@@ -39,9 +29,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Asmit1434
           template: classic
-          languages: true
-          languages_limit: 12
-          languages_details: true
+          plugin_languages: true
+          plugin_languages_limit: 12
+          plugin_languages_details: true
 
       - name: Generate metrics (isometric calendar)
         uses: lowlighter/metrics@v3.34
@@ -49,8 +39,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Asmit1434
           template: classic
-          isocalendar: true
-          isocalendar_duration: half-year
+          plugin_isocalendar: true
+          plugin_isocalendar_duration: half-year
 
       - name: Generate metrics (habits)
         uses: lowlighter/metrics@v3.34
@@ -58,9 +48,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Asmit1434
           template: classic
-          habits: true
-          habits_charts: true
-          habits_facts: true
+          plugin_habits: true
+          plugin_habits_charts: true
+          plugin_habits_facts: true
 
       - name: Generate metrics (achievements)
         uses: lowlighter/metrics@v3.34
@@ -68,8 +58,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Asmit1434
           template: classic
-          achievements: true
-          achievements_compact: true
+          plugin_achievements: true
 
       - name: Generate metrics (lines of code)
         uses: lowlighter/metrics@v3.34
@@ -77,10 +66,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Asmit1434
           template: classic
-          lines: true
-          lines_history_limit: 4
-          lines_repositories: "*"
-          lines_sort: date
+          plugin_lines: true
 
       - name: Generate metrics (topics)
         uses: lowlighter/metrics@v3.34
@@ -88,9 +74,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Asmit1434
           template: classic
-          topics: true
-          topics_limit: 12
-          topics_icons: true
+          plugin_topics: true
+          plugin_topics_limit: 12
 
       - name: Generate metrics (repositories)
         uses: lowlighter/metrics@v3.34
@@ -98,9 +83,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Asmit1434
           template: classic
-          repositories: true
-          repositories_pinned: 6
-          repositories_sort: stars
+          plugin_repositories: true
+          plugin_repositories_pinned: 6
 
       - name: Deploy metrics
         uses: crazy-max/ghaction-github-pages@v3
