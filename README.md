@@ -78,13 +78,34 @@ Always building something. Check my pinned repos for the latest work — data pi
 
 ---
 
+## GitHub Activity
+
 <div align="center">
 
-### Tech I Actually Use
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmit1434&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="35%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Asmit1434&show_icons=true&theme=transparent&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+<a href="https://github.com/Asmit1434">
+  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.base.svg" alt="GitHub Metrics">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.languages.svg" alt="Languages">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.isocalendar.svg" alt="Isometric Calendar">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.habits.svg" alt="Habits">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.achievements.svg" alt="Achievements">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.lines.svg" alt="Lines of Code">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.topics.svg" alt="Topics">
+</a>
+<a href="https://github.com/Asmit1434">
+  <img width="49%" src="https://raw.githubusercontent.com/Asmit1434/Asmit1434/gh-pages/metrics.repositories.svg" alt="Repositories">
+</a>
 
 </div>
 
